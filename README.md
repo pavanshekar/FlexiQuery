@@ -21,9 +21,8 @@ A step-by-step guide to get a development environment running:
 
 1. **Clone the repository:**
    ```bash
-  git clone https://github.com/pavanshekar/FlexiQuery.git
-2. **Navigate to the project directory:**
-  ```bash
-  cd flexiquery
-3. **Run the application:**
-  Use your preferred IDE to start the application
+   git clone https://github.com/pavanshekar/FlexiQuery.git
+
+### Run the application:
+
+Use your preferred IDE to start the application
